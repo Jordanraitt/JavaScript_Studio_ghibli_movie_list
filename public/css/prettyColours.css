@@ -1,0 +1,21 @@
+body {
+  background-image: url('../images/howl.jpg');
+  background-size: 1440px 900px;
+  background-attachment: fixed;
+
+}
+
+#header {
+  background: hsla(203, 47%, 55%, 0.91) ;
+}
+
+#film {
+  background: hsla(203, 12%, 100%, 0.51) ;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black
+}
+
+#film h2 p {
+  color: black
+}
